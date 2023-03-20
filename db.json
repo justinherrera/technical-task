@@ -1,0 +1,13 @@
+{
+  "cars": [
+    { 
+      "id": 1, 
+      "img": "json-server", 
+      "vin": "typicode",
+      "year": "2014",
+      "make": "toyota",
+      "model": "civic",
+      "price": "400000"
+    }
+  ]
+}
