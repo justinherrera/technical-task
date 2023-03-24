@@ -2,12 +2,75 @@
   "cars": [
     { 
       "id": 1, 
-      "img": "json-server", 
-      "vin": "typicode",
+      "img": "https://d3ggoe3aghc7um.cloudfront.net/uploads/prices/272/002_272_1662628084188_000.webp", 
+      "vin": "123",
       "year": "2014",
-      "make": "toyota",
-      "model": "civic",
-      "price": "400000"
+      "make": "Toyota",
+      "model": "Rush",
+      "price": "1,176,000"
+    },
+    { 
+      "id": 2, 
+      "img": "https://d3ggoe3aghc7um.cloudfront.net/uploads/prices/785/002_785_1653270720641_000.webp", 
+      "vin": "456",
+      "year": "2015",
+      "make": "Toyota",
+      "model": "Raize",
+      "price": "1,051,000"
+    },
+    { 
+      "id": 3, 
+      "img": "https://d3ggoe3aghc7um.cloudfront.net/uploads/prices/737/002_737_1645616768292_000.webp", 
+      "vin": "789",
+      "year": "2016",
+      "make": "Toyota",
+      "model": "Avanza",
+      "price": "1,059,000"
+    },
+    { 
+      "id": 4, 
+      "img": "https://d3ggoe3aghc7um.cloudfront.net/uploads/prices/701/002_701_1639107449853_000.webp", 
+      "vin": "101112",
+      "year": "2017",
+      "make": "Toyota",
+      "model": "Camry",
+      "price": "2,417,000"
+    },
+    { 
+      "id": 5, 
+      "img": "https://d3ggoe3aghc7um.cloudfront.net/uploads/prices/563/002_563_1661341604118_000.webp", 
+      "vin": "111213",
+      "year": "2018",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "price": "2,555,000"
+    },
+    { 
+      "id": 6, 
+      "img": "https://d3ggoe3aghc7um.cloudfront.net/uploads/prices/53/002_53_1665057892362_000.webp", 
+      "vin": "141516",
+      "year": "2019",
+      "make": "Toyota",
+      "model": "Corolla Altis",
+      "price": "1,317,000"
+    },
+    { 
+      "id": 7, 
+      "img": "https://d3ggoe3aghc7um.cloudfront.net/uploads/prices/470/002_470_1597029048192_000.webp", 
+      "vin": "141516",
+      "year": "2019",
+      "make": "Toyota",
+      "model": "Wigo",
+      "price": "705,000"
+    },
+    { 
+      "id": 8, 
+      "img": "https://d3ggoe3aghc7um.cloudfront.net/uploads/prices/366/002_366_1595675015211_000.webp", 
+      "vin": "141516",
+      "year": "2019",
+      "make": "Toyota",
+      "model": "Vios",
+      "price": "1,005,000"
     }
   ]
 }
